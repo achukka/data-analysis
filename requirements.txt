@@ -1,0 +1,10 @@
+data-analysis
+jedi
+jupyter
+nltk
+numpy
+python-dateutil
+python-twitter
+pytz
+six
+sqlalchemy
